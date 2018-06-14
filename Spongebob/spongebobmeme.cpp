@@ -22,7 +22,7 @@ int main()
 	while (carryon)
 	{
 		cout << "Enter string: ";
-		cin.getline(x, 100, '\n');
+		cin.getline(x, 500, '\n');
 		int length = strlen(x);
 		cin.clear();
 		
