@@ -1,4 +1,4 @@
-//changing a string into Spongebob Mocking meme
+//changing a string into Spongebob mocking meme
 
 #include <cstdlib>
 #include <cstdio>
@@ -11,7 +11,7 @@ int main()
 
 {
 	srand (time(NULL));
-	char x [50];
+	char x [500];
 	char word;
 
 	int counter;
